@@ -19,7 +19,7 @@ Aplicación móvil desarrollada en Flutter como parte del laboratorio de Desarro
 
 ## 👥 Equipo de trabajo
 - Hesiel10
-- [Nombre del compañero]
+- Compañero
 
 ## 📦 Cómo clonar el proyecto
 ```bash
